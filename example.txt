@@ -1,1 +1,3 @@
 This is a text just to create a commit
+
+Edited from the remote repository to use 'pull'
